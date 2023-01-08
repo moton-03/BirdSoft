@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Product",
+    "\\Product\\ElegantApp",
+    "\\Product\\SmartApp",
+    "\\Product\\SmartApp\\Sensor",
+    "\\Template"
+  ],
+  "SelectedNode": "\\Product\\SmartApp\\Sensor\\index.html",
+  "PreviewInSolutionExplorer": false
+}
