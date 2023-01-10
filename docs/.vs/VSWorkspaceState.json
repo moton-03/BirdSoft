@@ -4,8 +4,10 @@
     "\\Product",
     "\\Product\\ElegantApp",
     "\\Product\\SmartApp",
+    "\\Product\\SmartApp\\Measurement",
     "\\Product\\SmartApp\\Sensor",
     "\\Template"
   ],
+  "SelectedNode": "\\Product\\SmartApp\\Sensor\\index.html",
   "PreviewInSolutionExplorer": false
 }
