@@ -5,8 +5,10 @@
     "\\Product\\ElegantApp",
     "\\Product\\SmartApp",
     "\\Product\\SmartApp\\Measurement",
+    "\\Product\\SmartApp\\Notepad",
     "\\Product\\SmartApp\\Sensor",
     "\\Template"
   ],
+  "SelectedNode": "\\Product\\SmartApp\\Notepad\\index.md",
   "PreviewInSolutionExplorer": false
 }
