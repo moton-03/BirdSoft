@@ -7,8 +7,9 @@
     "\\Product\\SmartApp\\Measurement",
     "\\Product\\SmartApp\\Notepad",
     "\\Product\\SmartApp\\Sensor",
+    "\\Product\\SmartApp\\SoundStudio",
     "\\Template"
   ],
-  "SelectedNode": "\\Product\\SmartApp\\Notepad\\index.md",
+  "SelectedNode": "\\Product\\SmartApp\\SoundStudio\\index.md",
   "PreviewInSolutionExplorer": false
 }
