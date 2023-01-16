@@ -4,12 +4,13 @@
     "\\Product",
     "\\Product\\ElegantApp",
     "\\Product\\SmartApp",
+    "\\Product\\SmartApp\\Map",
     "\\Product\\SmartApp\\Measurement",
     "\\Product\\SmartApp\\Notepad",
     "\\Product\\SmartApp\\Sensor",
     "\\Product\\SmartApp\\SoundStudio",
     "\\Template"
   ],
-  "SelectedNode": "\\Product\\SmartApp\\SoundStudio\\index.md",
+  "SelectedNode": "\\Product\\SmartApp\\Map\\index.md",
   "PreviewInSolutionExplorer": false
 }
