@@ -2,15 +2,15 @@
   "ExpandedNodes": [
     "",
     "\\Product",
-    "\\Product\\ElegantApp",
     "\\Product\\SmartApp",
     "\\Product\\SmartApp\\Map",
     "\\Product\\SmartApp\\Measurement",
     "\\Product\\SmartApp\\Notepad",
     "\\Product\\SmartApp\\Sensor",
     "\\Product\\SmartApp\\SoundStudio",
+    "\\Product\\SmartApp\\WebBrowser",
     "\\Template"
   ],
-  "SelectedNode": "\\Product\\SmartApp\\Map\\index.md",
+  "SelectedNode": "\\Product\\SmartApp\\WebBrowser\\index.md",
   "PreviewInSolutionExplorer": false
 }
