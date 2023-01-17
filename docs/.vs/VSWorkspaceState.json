@@ -3,14 +3,13 @@
     "",
     "\\Product",
     "\\Product\\SmartApp",
-    "\\Product\\SmartApp\\Map",
-    "\\Product\\SmartApp\\Measurement",
+    "\\Product\\SmartApp\\BarcodeReader",
     "\\Product\\SmartApp\\Notepad",
     "\\Product\\SmartApp\\Sensor",
     "\\Product\\SmartApp\\SoundStudio",
     "\\Product\\SmartApp\\WebBrowser",
     "\\Template"
   ],
-  "SelectedNode": "\\Product\\SmartApp\\WebBrowser\\index.md",
+  "SelectedNode": "\\Product\\SmartApp\\BarcodeReader\\index.md",
   "PreviewInSolutionExplorer": false
 }
