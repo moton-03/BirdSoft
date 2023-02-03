@@ -3,9 +3,10 @@
     "",
     "\\Product",
     "\\Product\\SmartApp",
-    "\\Product\\SmartApp\\Paint",
+    "\\Product\\SmartApp\\Alert",
+    "\\Product\\SmartApp\\Calc",
     "\\Template"
   ],
-  "SelectedNode": "\\Product\\SmartApp\\Paint\\index.md",
+  "SelectedNode": "\\Product\\SmartApp\\Alert\\index.md",
   "PreviewInSolutionExplorer": false
 }
