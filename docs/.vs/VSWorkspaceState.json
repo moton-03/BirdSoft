@@ -5,8 +5,9 @@
     "\\Product\\SmartApp",
     "\\Product\\SmartApp\\Alert",
     "\\Product\\SmartApp\\Calc",
+    "\\Product\\SmartApp\\Stopwatch",
     "\\Template"
   ],
-  "SelectedNode": "\\Product\\SmartApp\\Alert\\index.md",
+  "SelectedNode": "\\Product\\SmartApp\\Stopwatch\\index.md",
   "PreviewInSolutionExplorer": false
 }
