@@ -3,10 +3,10 @@
     "",
     "\\Product",
     "\\Product\\SmartApp",
-    "\\Product\\SmartApp\\Notebook",
+    "\\Product\\SmartApp\\Photo",
     "\\Product\\SmartApp\\Stopwatch",
     "\\Template"
   ],
-  "SelectedNode": "\\Product\\SmartApp\\Notebook\\index.md",
+  "SelectedNode": "\\Product\\SmartApp\\Photo\\index.md",
   "PreviewInSolutionExplorer": false
 }
