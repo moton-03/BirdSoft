@@ -3,10 +3,10 @@
     "",
     "\\Product",
     "\\Product\\SmartApp",
-    "\\Product\\SmartApp\\Compass",
+    "\\Product\\SmartApp\\Camera",
     "\\Product\\SmartApp\\Stopwatch",
     "\\Template"
   ],
-  "SelectedNode": "\\Product\\SmartApp\\Compass\\index.md",
+  "SelectedNode": "\\Product\\SmartApp\\Camera\\index.md",
   "PreviewInSolutionExplorer": false
 }
