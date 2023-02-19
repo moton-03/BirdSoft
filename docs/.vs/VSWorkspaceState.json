@@ -3,9 +3,9 @@
     "",
     "\\Product",
     "\\Product\\SmartApp",
-    "\\Product\\SmartApp\\Magnifier",
+    "\\Product\\SmartApp\\SpiritLevel",
     "\\Template"
   ],
-  "SelectedNode": "\\Product\\SmartApp\\Magnifier",
+  "SelectedNode": "\\Product\\SmartApp\\SpiritLevel\\index.md",
   "PreviewInSolutionExplorer": false
 }
