@@ -3,9 +3,9 @@
     "",
     "\\Product",
     "\\Product\\SmartApp",
-    "\\Product\\SmartApp\\SpiritLevel",
+    "\\Product\\SmartApp\\MedicationManagement",
     "\\Template"
   ],
-  "SelectedNode": "\\Product\\SmartApp\\SpiritLevel\\index.md",
+  "SelectedNode": "\\Product\\SmartApp\\MedicationManagement",
   "PreviewInSolutionExplorer": false
 }
