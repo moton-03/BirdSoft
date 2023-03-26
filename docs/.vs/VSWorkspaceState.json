@@ -2,10 +2,14 @@
   "ExpandedNodes": [
     "",
     "\\Product",
+    "\\Product\\BirdAnalysis",
+    "\\Product\\BirdAnalysis\\ImageAnalysis",
+    "\\Product\\BirdApp",
     "\\Product\\SmartApp",
+    "\\Product\\SmartApp\\Alert",
     "\\Product\\SmartApp\\MedicationManagement",
     "\\Template"
   ],
-  "SelectedNode": "\\Product\\SmartApp\\MedicationManagement",
+  "SelectedNode": "\\Product\\BirdAnalysis\\ImageAnalysis",
   "PreviewInSolutionExplorer": false
 }
